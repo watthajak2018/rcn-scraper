@@ -1,1 +1,6 @@
 .byebug_history
+
+.envrc
+
+credentials.json
+token.yaml
